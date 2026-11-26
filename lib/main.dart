@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                 children: [
                   const CircleAvatar(
                     radius: 40,
-                    backgroundImage: AssetImage('assets/Je6w1l7heoTfn3cOan3q.webp'),
+                    backgroundImage: AssetImage('assets/20260921_090743_Original.JPG'),
                   ),
                   const SizedBox(width: 16),
                   Expanded(
@@ -72,8 +72,8 @@ class HomePage extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                       children: [
                         _stat('3', 'โพสต์'),
-                        _stat('1.5M', 'ผู้ติดตาม'),
-                        _stat('20', 'กำลังติดตาม'),
+                        _stat('999', 'ผู้ติดตาม'),
+                        _stat('27', 'กำลังติดตาม'),
                       ],
                     ),
                   ),
